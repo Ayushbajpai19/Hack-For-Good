@@ -11,3 +11,6 @@ is positive else he/she is negative.
 Ways to host-
 We just need to connect the app via NFC to the testing kit and all data will be transfered to the app,later we can use the app data 
 to see who is positive and who is not,we can use HttpsUrlConnection to fetch data or any other method.
+
+
+LINK: https://www.youtube.com/watch?v=eWPtt2hLnJk
